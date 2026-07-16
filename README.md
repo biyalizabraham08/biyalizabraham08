@@ -10,7 +10,7 @@
 
 <div align="center">
   <!-- The contribution snake image will appear here once the GitHub Action runs -->
-  <img src="https://raw.githubusercontent.com/biyalizabraham08/biyalizabraham08/output/github-contribution-grid-snake.svg" alt="snake animation" width="800" onerror="this.style.display='none'" />
+  <!-- <img src="https://raw.githubusercontent.com/biyalizabraham08/biyalizabraham08/output/github-contribution-grid-snake.svg" alt="snake animation" width="800" /> -->
 </div>
 
 <hr />
@@ -25,7 +25,7 @@ My expertise lies in <b>Full Stack Development</b> and building <b>AI Applicatio
 Continuous learning is my mantra. Whether it's picking up a new framework or exploring the latest in AI, I'm always eager to expand my skill set.
 </td>
 <td width="40%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=biyalizabraham08&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=biyalizabraham08&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </td>
 </tr>
 </table>
