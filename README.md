@@ -53,29 +53,24 @@ Contributed to the development of real-world backend applications by building fe
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <br>
-  <p><b>Frontend</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend" />
-  <br><br>
-  <p><b>Backend</b></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
-  <br><br>
-  <p><b>Databases</b></p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase" alt="Databases" />
-  <br><br>
-  <p><b>Programming Languages</b></p>
-  <img src="https://skillicons.dev/icons?i=java,python" alt="Programming Languages" />
-  <br><br>
-  <p><b>AI</b></p>
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-00A89D?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-  <br><br>
-  <p><b>Cloud & Tools</b></p>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel,vscode" alt="Tools" />
+
+**💻 Web Development**<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express" />
+
+**🗄️ Databases**<br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase" />
+
+**🤖 AI & Machine Learning**<br>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/MediaPipe-00A89D?style=for-the-badge&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" height="48" />
+
+**🧰 Tools & Platforms**<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,vercel" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="48" />
+
 </div>
 
 ---
