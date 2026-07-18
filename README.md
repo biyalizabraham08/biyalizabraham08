@@ -20,17 +20,30 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🌱 About Me
 
 <img align="right" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer GIF" />
 
-- 🎓 **CSE Student** building scalable systems
-- 📍 Based in **Chennai, India**
-- 💼 **Node.js Intern** at Rejola IT Services Pvt Ltd
-- 🏆 **Hackathon Winner** (Multiple podium finishes)
-- 💻 **Full Stack Developer** focusing on modern web tech
-- 🤖 **AI Enthusiast** exploring intelligent integrations
-- 🌱 Constantly learning **Backend & System Design**
+```yaml
+identity:
+  name: "Biya Liza Abraham"
+  role: "Full Stack Developer"
+
+mission: >
+  To architect scalable systems and build intelligent
+  applications that drive real-world impact.
+
+focus_areas:
+  - Backend Architecture
+  - AI-Driven Integrations
+  - Modern Web Technologies
+
+philosophy: "Learn aggressively. Build robustly. Iterate fast."
+
+fun_fact: >
+  I thrive on turning rapid ideas into award-winning 
+  products through hackathons and continuous learning.
+```
 
 <br clear="both">
 
