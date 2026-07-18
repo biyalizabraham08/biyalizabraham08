@@ -17,12 +17,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#7AA2F7&color_dots=#1a1b27,#2a2e3f,#3b4261,#7aa2f7,#bb9af7
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=7AA2F7&color_dots=1a1b27,2a2e3f,3b4261,7aa2f7,bb9af7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
