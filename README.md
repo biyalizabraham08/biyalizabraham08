@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="400" src="https://github-readme-stats-seven-sable.vercel.app/api?username=biyalizabraham08&theme=tokyonight&show_icons=true&hide_border=true&bg_color=1A1B27" alt="GitHub Stats" />
+<img align="right" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer GIF" />
 
 - 🎓 **CSE Student** building scalable systems
 - 📍 Based in **Chennai, India**
