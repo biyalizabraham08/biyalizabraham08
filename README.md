@@ -77,96 +77,16 @@ Contributed to the development of real-world backend applications by building fe
 
 ## 🚀 Featured Projects
 
+### 🌟 Flagship Project
+
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🚑 MediScan</h3>
-      <p><i>Emergency Medical QR Platform</i></p>
-      <p>
-        ✔️ Instant vital information via QR<br>
-        ✔️ Fast & reliable during emergencies<br>
-        ✔️ Secure medical data access
-      </p>
+    <td width="100%">
+      <h2>🚑 MediScan <img src="https://img.shields.io/badge/Status-Beta-7AA2F7?style=flat-square" align="right"/></h2>
+      <p><strong>Problem:</strong> First responders often lack critical medical history during emergencies.</p>
+      <p><strong>Solution:</strong> An emergency medical QR platform that delivers life-saving vital information instantly, ensuring fast and secure data access when seconds count.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      </p>
-      <a href="https://github.com/biyalizabraham08"><img src="https://img.shields.io/badge/Repository-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-7AA2F7?style=for-the-badge&logo=vercel&logoColor=1a1b27" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔒 SecureID Vault</h3>
-      <p><i>Deepfake-resistant Identity Verification</i></p>
-      <p>
-        ✔️ Advanced deepfake detection<br>
-        ✔️ Secure financial transactions<br>
-        ✔️ AI-driven verification
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI-8E75B2?style=flat-square" />
-      </p>
-      <a href="https://github.com/biyalizabraham08"><img src="https://img.shields.io/badge/Repository-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-7AA2F7?style=for-the-badge&logo=vercel&logoColor=1a1b27" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 HexaPathAI</h3>
-      <p><i>AI-powered Skill Gap Analysis Platform</i></p>
-      <p>
-        ✔️ Intelligent skill analysis<br>
-        ✔️ Personalized learning paths<br>
-        ✔️ Career growth recommendations
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square" />
-      </p>
-      <a href="https://github.com/biyalizabraham08"><img src="https://img.shields.io/badge/Repository-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-7AA2F7?style=for-the-badge&logo=vercel&logoColor=1a1b27" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏢 Asset Hub</h3>
-      <p><i>Enterprise Resource Management System</i></p>
-      <p>
-        ✔️ Comprehensive tracking dashboard<br>
-        ✔️ Resource allocation management<br>
-        ✔️ Enterprise-grade security
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-      <a href="https://github.com/biyalizabraham08"><img src="https://img.shields.io/badge/Repository-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-7AA2F7?style=for-the-badge&logo=vercel&logoColor=1a1b27" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌱 SwachhNet</h3>
-      <p><i>AI + IoT Smart Waste Intelligence Platform</i></p>
-      <p>
-        ✔️ IoT sensor integration<br>
-        ✔️ Route optimization via AI<br>
-        ✔️ Smart waste management
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/IoT-FF6F00?style=flat-square" />
-      </p>
-      <a href="https://github.com/biyalizabraham08"><img src="https://img.shields.io/badge/Repository-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-7AA2F7?style=for-the-badge&logo=vercel&logoColor=1a1b27" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 CRM Follow-up System</h3>
-      <p><i>Express + MongoDB Backend Project</i></p>
-      <p>
-        ✔️ Customer relationship tracking<br>
-        ✔️ Automated follow-up management<br>
-        ✔️ Sales pipeline monitoring
-      </p>
-      <p>
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
@@ -174,7 +94,72 @@ Contributed to the development of real-world backend applications by building fe
       <a href="#"><img src="https://img.shields.io/badge/Live_Demo-7AA2F7?style=for-the-badge&logo=vercel&logoColor=1a1b27" /></a>
     </td>
   </tr>
-  <!-- FUTURE PROJECTS: Add a new <tr> block here with 2 <td> elements for new projects -->
+</table>
+
+<br>
+
+### 📂 Other Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔒 SecureID Vault <img src="https://img.shields.io/badge/Hackathon_Winner-BB9AF7?style=flat-square" align="right"/></h3>
+      <p><strong>Problem:</strong> Financial fraud via deepfake identity spoofing is rising.</p>
+      <p><strong>Solution:</strong> An AI-driven verification system using advanced deepfake detection to secure financial transactions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-8E75B2?style=flat-square" />
+      </p>
+      <a href="https://github.com/biyalizabraham08"><img src="https://img.shields.io/badge/Code-1a1b27?style=flat-square&logo=github&logoColor=7AA2F7" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 HexaPathAI <img src="https://img.shields.io/badge/Hackathon_Winner-BB9AF7?style=flat-square" align="right"/></h3>
+      <p><strong>Problem:</strong> Generic learning paths leave users with unresolved skill gaps.</p>
+      <p><strong>Solution:</strong> An intelligent platform that analyzes skill gaps and generates personalized growth recommendations using the Gemini API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square" />
+      </p>
+      <a href="https://github.com/biyalizabraham08"><img src="https://img.shields.io/badge/Code-1a1b27?style=flat-square&logo=github&logoColor=7AA2F7" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 Asset Hub <img src="https://img.shields.io/badge/Prototype-E0AF68?style=flat-square" align="right"/></h3>
+      <p><strong>Problem:</strong> Enterprises struggle to track distributed physical assets securely.</p>
+      <p><strong>Solution:</strong> An enterprise-grade resource management system with a comprehensive tracking dashboard and secure allocation logs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+      <a href="https://github.com/biyalizabraham08"><img src="https://img.shields.io/badge/Code-1a1b27?style=flat-square&logo=github&logoColor=7AA2F7" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 SwachhNet <img src="https://img.shields.io/badge/Active-9ECE6A?style=flat-square" align="right"/></h3>
+      <p><strong>Problem:</strong> Inefficient waste collection routing leads to overflowing bins.</p>
+      <p><strong>Solution:</strong> A smart waste intelligence platform integrating IoT sensors with AI to optimize collection routes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/IoT-FF6F00?style=flat-square" />
+      </p>
+      <a href="https://github.com/biyalizabraham08"><img src="https://img.shields.io/badge/Code-1a1b27?style=flat-square&logo=github&logoColor=7AA2F7" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 CRM Follow-up <img src="https://img.shields.io/badge/Internship_Project-7DCFFF?style=flat-square" align="right"/></h3>
+      <p><strong>Problem:</strong> Sales teams lose leads due to manual follow-up tracking.</p>
+      <p><strong>Solution:</strong> A dedicated backend service for tracking customer relationships and automating follow-up management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <a href="https://github.com/biyalizabraham08"><img src="https://img.shields.io/badge/Code-1a1b27?style=flat-square&logo=github&logoColor=7AA2F7" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Empty space to balance the grid -->
+    </td>
+  </tr>
 </table>
 
 ---
