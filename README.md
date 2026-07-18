@@ -207,8 +207,8 @@ Contributed to the development of real-world backend applications by building fe
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biyalizabraham08&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyalizabraham08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-seven-sable.vercel.app/api?username=biyalizabraham08&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-seven-sable.vercel.app/api/top-langs/?username=biyalizabraham08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
