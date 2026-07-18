@@ -22,24 +22,17 @@
 
 ## 👨‍💻 About Me
 
-<table width="100%">
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🎓 <b>CSE Student</b> building scalable systems</li>
-        <li>📍 Based in <b>Chennai, India</b></li>
-        <li>💼 <b>Node.js Intern</b> at Rejola IT Services Pvt Ltd</li>
-        <li>🏆 <b>Hackathon Winner</b> (Multiple podium finishes)</li>
-        <li>💻 <b>Full Stack Developer</b> focusing on modern web tech</li>
-        <li>🤖 <b>AI Enthusiast</b> exploring intelligent integrations</li>
-        <li>🌱 Constantly learning <b>Backend & System Design</b></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=biyalizabraham08&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=biyalizabraham08&theme=tokyonight&show_icons=true&hide_border=true&bg_color=1A1B27" alt="GitHub Stats" />
+
+- 🎓 **CSE Student** building scalable systems
+- 📍 Based in **Chennai, India**
+- 💼 **Node.js Intern** at Rejola IT Services Pvt Ltd
+- 🏆 **Hackathon Winner** (Multiple podium finishes)
+- 💻 **Full Stack Developer** focusing on modern web tech
+- 🤖 **AI Enthusiast** exploring intelligent integrations
+- 🌱 Constantly learning **Backend & System Design**
+
+<br clear="both">
 
 ---
 
