@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=biyalizabraham08&theme=tokyonight&show_icons=true&hide_border=true&bg_color=1A1B27" alt="GitHub Stats" />
+<img align="right" width="400" src="https://github-readme-stats-seven-sable.vercel.app/api?username=biyalizabraham08&theme=tokyonight&show_icons=true&hide_border=true&bg_color=1A1B27" alt="GitHub Stats" />
 
 - 🎓 **CSE Student** building scalable systems
 - 📍 Based in **Chennai, India**
@@ -258,7 +258,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyalizabraham08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-seven-sable.vercel.app/api/top-langs/?username=biyalizabraham08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=biyalizabraham08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
