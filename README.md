@@ -178,20 +178,28 @@ Contributed to the development of real-world backend applications by building fe
 
 <table width="100%">
   <tr>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/🥈_Runner--up-Hack_Hustle_2.0-7AA2F7?style=for-the-badge" /><br>
-      <i>SecureID Vault</i>
+    <td width="33%" valign="top">
+      <h4>🥈 Runner-Up</h4>
+      <b>Hack Hustle 2.0</b> • 2026<br>
+      <br>
+      <b>Project:</b> <a href="https://github.com/biyalizabraham08">SecureID Vault</a><br>
+      <i>Developed an AI-driven verification system using advanced deepfake detection.</i>
     </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/🥉_3rd_Place-SA_Hackathon_'26-BB9AF7?style=for-the-badge" /><br>
-      <i>HexaPathAI</i>
+    <td width="33%" valign="top">
+      <h4>🥉 3rd Place</h4>
+      <b>SA Hackathon</b> • 2026<br>
+      <br>
+      <b>Project:</b> <a href="https://github.com/biyalizabraham08">HexaPathAI</a><br>
+      <i>Built an intelligent skill gap analysis platform powered by the Gemini API.</i>
     </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/🏅_Qualified_Round_2-TNWISE_Hackathon-2AC3DE?style=for-the-badge" /><br>
-      <i>TNWISE</i>
+    <td width="33%" valign="top">
+      <h4>🏅 Qualifier</h4>
+      <b>TNWISE Hackathon</b> • 2026<br>
+      <br>
+      <b>Project:</b> <a href="#">TNWISE Platform</a><br>
+      <i>Advanced to the second round in a highly competitive state-level hackathon.</i>
     </td>
   </tr>
-  <!-- FUTURE ACHIEVEMENTS: Add new columns or rows here for future hackathons -->
 </table>
 
 ---
