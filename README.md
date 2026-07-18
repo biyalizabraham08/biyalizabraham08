@@ -22,28 +22,12 @@
 
 ## 🌱 About Me
 
-```yaml
-identity:
-  name: "Biya Liza Abraham"
-  role: "Full Stack Developer"
+> I enjoy building software that transforms ideas into practical solutions, with a strong focus on scalability, performance, and meaningful user experiences.
 
-mission: >
-  To architect scalable systems and build intelligent
-  applications that drive real-world impact.
-
-focus_areas:
-  - Backend Architecture
-  - AI-Driven Integrations
-  - Modern Web Technologies
-
-philosophy: "Learn aggressively. Build robustly. Iterate fast."
-
-fun_fact: >
-  I thrive on turning rapid ideas into award-winning 
-  products through hackathons and continuous learning.
-```
-
-<br clear="both">
+- 🚀 Building modern full-stack applications with clean and scalable architectures
+- 🧠 Exploring backend engineering, AI-powered solutions, and cloud technologies
+- 💡 Passionate about solving real-world problems through thoughtful software design
+- ⚡ Believer in continuous learning, consistent improvement, and learning by building
 
 ---
 
