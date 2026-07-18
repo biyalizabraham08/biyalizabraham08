@@ -164,23 +164,13 @@ Contributed to the development of real-world backend applications by building fe
 
 ---
 
-## ⏳ Developer Journey
+## 🎯 Current Focus
 
-<div align="center">
-  <code>2024</code> <br>
-  <b>Started CSE</b> <br>
-  ⬇️ <br>
-  <code>2025</code> <br>
-  <b>Built Full Stack Projects</b> <br>
-  ⬇️ <br>
-  <code>2026</code> <br>
-  <b>Node.js Internship</b> <br>
-  <i>Runner-Up Hack Hustle | 3rd Place SA Hackathon | Qualified TNWISE Round 2</i> <br>
-  ⬇️ <br>
-  <code>Present</code> <br>
-  <b>Building AI Products</b>
-</div>
-<!-- FUTURE JOURNEY: Add new timeline nodes above this comment -->
+- 🚀 Architecting scalable full-stack applications built for real-world reliability
+- ⚙️ Deepening backend expertise with Node.js, Express, and resilient API design
+- 🤖 Integrating artificial intelligence into everyday software to automate workflows
+- ☁️ Mastering cloud deployment strategies and modern system architecture
+- ✨ Crafting clean, highly maintainable, and production-ready codebases
 
 ---
 
