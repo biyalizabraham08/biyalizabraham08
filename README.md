@@ -219,32 +219,23 @@ Contributed to the development of real-world backend applications by building fe
 
 ---
 
-## 🔄 Currently Learning
+## 🎯 Current Focus
 
 <div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Backend_Development-1a1b27?style=for-the-badge&logoColor=white&color=7AA2F7" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Express.js-1a1b27?style=for-the-badge&logo=express&logoColor=white&color=BB9AF7" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=white&color=2AC3DE" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/System_Design-1a1b27?style=for-the-badge&logoColor=white&color=E0AF68" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/DSA-1a1b27?style=for-the-badge&logoColor=white&color=9ECE6A" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Cloud_Deployment-1a1b27?style=for-the-badge&logo=icloud&logoColor=white&color=7DCFFF" />
-  </a>
+  <img src="https://img.shields.io/badge/Backend_Engineering-1a1b27?style=for-the-badge&logoColor=white&color=7AA2F7" />
+  <img src="https://img.shields.io/badge/System_Design-1a1b27?style=for-the-badge&logoColor=white&color=BB9AF7" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-1a1b27?style=for-the-badge&logoColor=white&color=2AC3DE" />
+  <img src="https://img.shields.io/badge/AI--powered_Applications-1a1b27?style=for-the-badge&logoColor=white&color=E0AF68" />
+  <img src="https://img.shields.io/badge/Production--ready_Software-1a1b27?style=for-the-badge&logoColor=white&color=9ECE6A" />
 </div>
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Let's Connect
+
+I'm always open to collaborating on interesting projects, discussing new ideas, or connecting with fellow developers.
+
+<br>
 
 <div align="center">
   <a href="https://github.com/biyalizabraham08">
@@ -256,9 +247,6 @@ Contributed to the development of real-world backend applications by building fe
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email" />
   </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=safari&logoColor=white&color=2AC3DE" alt="Portfolio" />
-  </a>
   <a href="https://leetcode.com/biyalizabraham08">
     <img src="https://img.shields.io/badge/LeetCode-1a1b27?style=for-the-badge&logo=leetcode&logoColor=white&color=FFA116" alt="LeetCode" />
   </a>
@@ -266,9 +254,8 @@ Contributed to the development of real-world backend applications by building fe
 
 <br>
 
-<div align="center">
-  <i>"Thanks for visiting my profile. If you like my work, consider starring my repositories!"</i>
-</div>
+---
 
-<br>
+> *"Building software that solves real-world problems through curiosity, collaboration, and continuous learning."*
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=100&section=footer" width="100%"/>
