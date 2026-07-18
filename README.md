@@ -22,8 +22,6 @@
 
 ## 🌱 About Me
 
-<img align="right" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer GIF" />
-
 ```yaml
 identity:
   name: "Biya Liza Abraham"
