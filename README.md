@@ -33,22 +33,20 @@
 
 ## 💼 Professional Experience
 
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <h3>Node.js Intern</h3>
-      <p><b>Rejola IT Services Pvt Ltd</b> | <i>June 2026</i></p>
-      <ul>
-        <li>Built backend applications using Node.js</li>
-        <li>Worked with Express.js</li>
-        <li>Developed REST APIs</li>
-        <li>Learned scalable backend architecture</li>
-        <li>Improved backend development skills</li>
-      </ul>
-    </td>
-  </tr>
-  <!-- FUTURE EXPERIENCE: Copy the <tr> block above and paste it here to add new experiences -->
-</table>
+### 🚀 Node.js Intern
+**Rejola IT Services Pvt Ltd** • *June 2026*
+
+Contributed to the development of real-world backend applications by building features for a **CRM Management System** and a **Todo List Application**. Gained hands-on experience in designing RESTful APIs, managing databases, and developing scalable server-side applications.
+
+**Key Contributions**
+- 📊 Developed backend modules for a CRM Management System
+- ✅ Built CRUD APIs for a Todo List application
+- 🔗 Designed and integrated RESTful APIs using Express.js
+- 🗄️ Managed application data using MongoDB
+- 🛠️ Worked with routing, middleware, debugging, and API testing
+
+**Tech Stack**
+`Node.js` `Express.js` `MongoDB` `REST API`
 
 ---
 
