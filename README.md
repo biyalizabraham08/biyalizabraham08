@@ -164,20 +164,6 @@ Contributed to the development of real-world backend applications by building fe
 
 ---
 
-## 📜 Certifications
-
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <b>Node.js Internship</b><br>
-      <i>Rejola IT Services Pvt Ltd</i>
-    </td>
-  </tr>
-  <!-- FUTURE CERTIFICATIONS: Copy the <tr> block above and paste it here -->
-</table>
-
----
-
 ## ⏳ Developer Journey
 
 <div align="center">
